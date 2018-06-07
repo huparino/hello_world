@@ -1,2 +1,5 @@
 # hello_world
-My first repo
+
+Hi GitWorld!
+
+My name is huparino, and I will be making edits to this world.
